@@ -21,9 +21,8 @@ class Dinner{
 this.salad=salad;
 this.soup=soup;
 this.entree=entree;
+this._dessert=dessert;
   }
 }
 
 
-
-3. Create a class for `Dinner`. Since dinner is a little bit fancier, `Dinner` will have a constructor with salad, soup, entree, and dessert. Indicate that dessert is intended to be a private property by including an underscore (`_`) at the beginning.
